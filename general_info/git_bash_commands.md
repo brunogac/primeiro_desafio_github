@@ -1,4 +1,11 @@
 # Lista de comandos para o GitBash
-- Clonar - Use para criar um repositório local baseado em um repositório do GitHub: 
+- Clonar - Para criar um repositório local baseado em um repositório do GitHub:  
 `git clone [link ssh]`
-- Status -
+- Status - Para obter informções sobre a situação atual do repositório local:  
+`git status`
+- Add - Para adicionar novos arquivos ao repositório Git local:   
+`git add [file name ou .(para adicionar todos)]`
+- Commit - Capturar o estado atual do repositório local, salvando um marco (milestone) que poderá ser recuperado depois se necessário:  
+Adicionar um comentário relevante é uma boa prática  -m (m de message)  
+`git commit -m "[Mensagem]"`
+- Push - Para enviar o repositório local ao Github:
