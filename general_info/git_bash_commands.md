@@ -10,5 +10,5 @@ Adicionar um comentário relevante é uma boa prática  -m (m de message)
 `git commit -m "<Mensagem>"`
 - Push - Para enviar todo o repositório local ao Github:  
 `git push origin main` 
-- Pull - Para recever o repositório do Github no repositório local. Útil para resolver conflitos se o push falhar.
+- Pull - Para recever o repositório do Github no repositório local. Útil para resolver conflitos se o push falhar.  
 `git pull`
